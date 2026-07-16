@@ -1,0 +1,19 @@
+{
+  "name": "instruct-another-ai",
+  "description": "Help Claude Code decide when to delegate, give subagents the context they need, and organize productive agent teams.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gilad Barnea",
+    "url": "https://github.com/giladbarnea"
+  },
+  "homepage": "https://github.com/giladbarnea/instruct-another-ai",
+  "repository": "https://github.com/giladbarnea/instruct-another-ai",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "subagents",
+    "delegation",
+    "coordination",
+    "productivity"
+  ]
+}

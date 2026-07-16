@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "giladbarnea",
+  "description": "Gilad Barnea's Claude Code plugins.",
+  "owner": {
+    "name": "Gilad Barnea",
+    "url": "https://github.com/giladbarnea"
+  },
+  "plugins": [
+    {
+      "name": "instruct-another-ai",
+      "source": "./",
+      "description": "Help Claude Code decide when to delegate, give subagents the context they need, and organize productive agent teams.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gilad Barnea",
+        "url": "https://github.com/giladbarnea"
+      },
+      "homepage": "https://github.com/giladbarnea/instruct-another-ai",
+      "category": "productivity"
+    }
+  ]
+}
